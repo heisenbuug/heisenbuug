@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on creating a Dataframe like class in C++
+- 🔭 I’m currently working on creating Creating smart contracts with Solidity
 - :computer: Programming Languages C++ and Python
 - 🌱 I’m currently learning Template metaprogramming in C++ and Vim
 - 👯 I’m looking to collaborate on C++ ML Libraries 
